@@ -9,6 +9,8 @@ class UserI(models.Model):
     name = models.CharField(
         "Name",
         max_length=145,
+        null=True,
+        blank=True,
     )
 
     class Meta:
