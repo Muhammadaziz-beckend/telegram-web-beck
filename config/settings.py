@@ -134,7 +134,7 @@ MEDIA_ROOT = BASE_DIR / "media"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # bot
-BOT_TOKEN = "8150477852:AAEaANiGuGaxdBhRJ8qy6Lc67_lt-OkGp1E"
+BOT_TOKEN = "you_token"
 
 
 REST_FRAMEWORK = {
